@@ -6,7 +6,7 @@
 // - voltage levels for the Arduino
 //
 // Voltage Divider Basics:
-// - We need 5V max where the input is 15V max.
+// - We need 5V max where Vin = 15V max.
 // - This means we need 15/5=3 resistors in series. 
 // - What will be the voltage drop on each resistor?
 // - It will be (Vin/R_total)*single resistance. Which is 5V. 
